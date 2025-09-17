@@ -1,0 +1,31 @@
+# ========== Visual Studio ==========
+.vs/
+*.user
+*.suo
+*.sdf
+*.dbmdl
+
+# ========== Build results ==========
+Debug/
+Release/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# ========== CMake / cache ==========
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+
+# ========== Logs ==========
+*.log
+
+# ========== Others ==========
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ipch
+*.opendb
+*.VC.db
