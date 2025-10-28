@@ -24,7 +24,6 @@ cmake-build-*/
 # ========== Others ==========
 *.exe
 *.dll
-*.lib
 *.pdb
 *.ipch
 *.opendb
