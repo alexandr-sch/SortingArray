@@ -1,30 +1,30 @@
 # ========== Visual Studio ==========
-.vs/
-*.user
-*.suo
-*.sdf
-*.dbmdl
+# .vs/
+# *.user
+# *.suo
+# *.sdf
+# *.dbmdl
 
-# ========== Build results ==========
-Debug/
-Release/
-x64/
-x86/
-[Bb]in/
-[Oo]bj/
+# # ========== Build results ==========
+# Debug/
+# Release/
+# x64/
+# x86/
+# [Bb]in/
+# [Oo]bj/
 
-# ========== CMake / cache ==========
-CMakeFiles/
-CMakeCache.txt
-cmake-build-*/
+# # ========== CMake / cache ==========
+# CMakeFiles/
+# CMakeCache.txt
+# cmake-build-*/
 
-# ========== Logs ==========
-*.log
+# # ========== Logs ==========
+# *.log
 
-# ========== Others ==========
-*.exe
-*.dll
-*.pdb
-*.ipch
-*.opendb
-*.VC.db
+# # ========== Others ==========
+# *.exe
+# *.dll
+# *.pdb
+# *.ipch
+# *.opendb
+# *.VC.db
